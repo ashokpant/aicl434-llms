@@ -6,7 +6,6 @@
 *.pyd
 *.pyw
 *.Ds_Store
-To add all Python-related `.gitignore` entries, you can update your `.gitignore` file as follows:
 
 ```plaintext
 # Byte-compiled / optimized / DLL files
@@ -137,6 +136,7 @@ cython_debug/
 
 # PyCharm
 .idea/
-```
 
-This will ensure that all common Python-related files and directories are ignored by Git.
+data
+data/glove.6B.50d.txt
+
