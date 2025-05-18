@@ -141,3 +141,5 @@ data
 data/glove.6B.50d.txt
 
 models
+experimets
+*.faiss.*
